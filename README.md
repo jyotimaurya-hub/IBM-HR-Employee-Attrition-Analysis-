@@ -67,11 +67,13 @@ The project uses the **IBM HR Employee Attrition dataset**, containing employee-
 
 ### Overview Dashboard
 
-Add your Power BI dashboard screenshot here.
+<img width="859" height="492" alt="image" src="https://github.com/user-attachments/assets/afd9ce52-5fb9-4d67-9a5d-b1eecfde8e48" />
+
 
 ### Detailed Analysis
 
-Add your second-page screenshot here.
+<img width="859" height="492" alt="Screenshot 2026-09-15 222743" src="https://github.com/user-attachments/assets/8d5500fc-b20a-4a63-9c84-ba618d9a2866" />
+
 
 ## 🎯 Project Objective
 
