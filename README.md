@@ -67,7 +67,8 @@ The project uses the **IBM HR Employee Attrition dataset**, containing employee-
 
 ### Overview Dashboard
 
-<img width="859" height="492" alt="image" src="https://github.com/user-attachments/assets/afd9ce52-5fb9-4d67-9a5d-b1eecfde8e48" />
+<img width="796" height="499" alt="Screenshot 2026-09-15 222727" src="https://github.com/user-attachments/assets/01775800-7a6b-4e5d-b119-8bd19dc364f6" />
+
 
 
 ### Detailed Analysis
